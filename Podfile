@@ -6,5 +6,5 @@ target 'Example' do
 end
 
 target 'RxTimer' do
-  pod 'RxSwift', '~> 4.x'
+  pod 'RxSwift', '~> 5.x'
 end
